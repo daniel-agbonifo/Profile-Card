@@ -66,10 +66,7 @@ a {
     position: absolute;
     align-items: center;
     justify-content: center;
-    padding-top: 70vh;
-    height: 50vh;
-    border-radius: ;
-   
+    margin-top: 70vh;  
 }
 
 .portfolio a {
@@ -78,7 +75,7 @@ a {
     align-items: center;
     justify-content: center;
     background-color: black;
-    height: 10vh;
+    height: 7vh;
     justify-content: center;
     display: flex;
     border-radius: 10px;
