@@ -28,6 +28,7 @@
     box-shadow:0 0 0.325rem rgba(255, 255, 255, 0.5) ;
     border-radius: 10px;
     padding: 30px;
+    margin-bottom: 7em;
 }
 
 img {
@@ -66,7 +67,7 @@ a {
     position: absolute;
     align-items: center;
     justify-content: center;
-    margin-top: 70vh;  
+    margin-top: 50vh;  
 }
 
 .portfolio a {
@@ -79,11 +80,6 @@ a {
     justify-content: center;
     display: flex;
     border-radius: 10px;
-    
-
-
-
-    ;
 }
 
 .portfolio a:hover {
